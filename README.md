@@ -1,7 +1,7 @@
 Bop
 ===
 
-A Discord Bot that plays YouTube Music.
+A Discord Bot that plays songs from YouTube.
 
 **This is for educational purposes only. You should not use this.**
 
