@@ -3,6 +3,8 @@ Bop
 
 A Discord Bot that plays songs from YouTube.
 
+![pic](./screeny.png)
+
 **This is for educational purposes only. You should not use this.**
 
 # How to use this
