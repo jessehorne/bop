@@ -1,0 +1,22 @@
+{
+  "name": "bop",
+  "version": "0.0.1",
+  "description": "A musical Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Horne <j.horne2796@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "libsodium-wrappers": "^0.7.9",
+    "sodium": "^3.0.2",
+    "youtube-audio-stream": "github:jameskyburz/youtube-audio-stream",
+    "youtube-dl": "^3.5.0",
+    "youtube-search-api": "^1.0.11"
+  }
+}
